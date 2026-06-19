@@ -216,5 +216,5 @@ A sample flow using Postman or curl:
 
 ## Author
 
-**Abhi Sharma**
-Java Developer | [LinkedIn](#) | [Portfolio](#)
+**Abhishek Kesarkar**
+Java Developer
